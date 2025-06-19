@@ -1,10 +1,10 @@
 # Clickjack
-#PYTHON MODULE NEEDED:
+PYTHON MODULE NEEDED:
 requests
 sys
 
-#USING FORMAT:
+USING FORMAT:
 python clickjack.py <FILENAME>
 
-#CONDITIONS:
+CONDITIONS:
 http:// or https:// should be present as a url in the txt file
